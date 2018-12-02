@@ -1,0 +1,4 @@
+export SYS=LinuxE6_64
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/lib:.
+export PATH=$PATH:/usr/local/bin
+source /opt/rh/devtoolset-2/enable
